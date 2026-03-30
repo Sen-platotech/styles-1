@@ -144,17 +144,6 @@
       <label form="short"/>
     </names>
   </macro>
-  <macro name="volume-en">
-    <choose>
-      <if is-numeric="volume">
-        <label variable="volume" form="short" suffix=" "/>
-        <number variable="volume"/>
-      </if>
-      <else>
-        <text variable="volume"/>
-      </else>
-    </choose>
-  </macro>
   <macro name="volume-zh">
     <choose>
       <if is-numeric="volume">
