@@ -17,6 +17,23 @@
     <updated>2026-03-28T00:00:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
+  <locale xml:lang="zh">
+    <terms>
+      <term name="anonymous">佚名</term>
+      <term name="edition" form="short">版</term>
+      <term name="ibid">同上</term>
+      <term name="in">载</term>
+      <term name="no date">出版时间不详</term>
+      <term name="open-quote">&#x201C;</term>
+      <term name="close-quote">&#x201D;</term>
+      <term name="open-inner-quote">&#x2018;</term>
+      <term name="close-inner-quote">&#x2019;</term>
+      <term name="page-range-delimiter">&#x2014;</term>
+      <term name="paper-conference">论文</term>
+      <term name="report">报告</term>
+      <term name="thesis">博士学位论文</term>
+    </terms>
+  </locale>
   <macro name="author-en">
     <names variable="author">
       <name initialize-with=". " and="text"/>
