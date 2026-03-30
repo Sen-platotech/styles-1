@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" initialize="false" initialize-with=". " page-range-format="expanded" default-locale="en-US">
+<style xmlns="http://purl.org/net/xbiblio/csl" class="note" version="1.0" initialize="false" initialize-with=". " page-range-format="expanded" default-locale="zh-CN">
   <info>
     <title>政治学研究</title>
     <title-short>政治学研究</title-short>
@@ -17,6 +17,28 @@
     <updated>2026-03-28T00:00:00+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
+  <locale xml:lang="zh">
+    <terms>
+      <term name="anonymous">佚名</term>
+      <term name="edition" form="short">版</term>
+      <term name="ibid">同上</term>
+      <term name="in">载</term>
+      <term name="no date">出版时间不详</term>
+      <term name="open-quote">"</term>
+      <term name="close-quote">"</term>
+      <term name="open-inner-quote">'</term>
+      <term name="close-inner-quote">'</term>
+      <term name="page-range-delimiter">—</term>
+      <term name="paper-conference">论文</term>
+      <term name="report">报告</term>
+      <term name="thesis">博士学位论文</term>
+    </terms>
+  </locale>
+  <locale>
+    <terms>
+      <term name="page-range-delimiter">-</term>
+    </terms>
+  </locale>
   <macro name="author-en">
     <names variable="author">
       <name initialize-with=". " and="text"/>
