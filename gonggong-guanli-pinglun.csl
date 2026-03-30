@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" initialize="true" initialize-with=" " page-range-format="expanded" default-locale="zh-CN" demote-non-dropping-particle="never">
+<style xmlns="http://purl.org/net/xbiblio/csl" version="1.0" class="in-text" default-locale="zh-CN" demote-non-dropping-particle="never" initialize-with=" " page-range-format="expanded">
   <info>
-    <title>公共管理评论</title>
+    <title>公共管理评论（中文）</title>
     <title-short>公管评论</title-short>
     <id>http://www.zotero.org/styles/gonggong-guanli-pinglun</id>
     <link href="http://www.zotero.org/styles/gonggong-guanli-pinglun" rel="self"/>
